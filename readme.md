@@ -6,8 +6,8 @@
 
 ## Running the program
 
-# Generate the Optimal Path in the obstacle course to travel from one point to another found with the Dijkstra Algorithm and visualize it:
-## The Numpy and OpenCV Python libraries are used for this project.
+### Generate the Optimal Path in the obstacle course to travel from one point to another found with the Dijkstra Algorithm and visualize it:
+#### The Numpy and OpenCV Python libraries are used for this project.
 
 Open the Project folder /proj2_ninad_harish in a Terminal.
 ```

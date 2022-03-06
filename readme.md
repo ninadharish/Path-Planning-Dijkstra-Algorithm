@@ -1,7 +1,7 @@
-# ENPM661 Project 2 
+# ENPM661 Project 2 - Path Planning with Dijkstra Algorithm
 
 ## Personnel
-### Ninad Harishchandrakar - 118150819 - ninadh@umd.edu
+### Ninad Harishchandrakar
 
 
 ## Running the program

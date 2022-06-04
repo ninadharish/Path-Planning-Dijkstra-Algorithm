@@ -2,6 +2,7 @@ import numpy as np
 import cv2
 from dijkstra import *
 
+
 def userInput():
     """Function to get the Initial and Goal point coordinates from the user.
 

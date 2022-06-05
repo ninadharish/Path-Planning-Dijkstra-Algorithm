@@ -8,7 +8,7 @@ The [Dijkstra Algotihm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) is
 
 ## Approach
 
-The algorithm used is shown in the following flowchart.
+Algorithm:
 
 ![alt text](/output/flo.png)
 

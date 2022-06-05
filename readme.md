@@ -32,7 +32,7 @@ The Video Output can be found [here](https://drive.google.com/file/d/1oppuylvXl6
 
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&ensp; </a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/File:NumPy_logo_2020.svg" alt="numpy" width="40" height="40"/>&ensp; </a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.codebykelvin.com/learning/python/data-science/numpy-series/cover-numpy.png" alt="numpy" width="40" height="40"/>&ensp; </a>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/5009934?v=4&s=400" alt="opencv" width="40" height="40"/>&ensp; </a>
 
 * [Python 3](https://www.python.org/)

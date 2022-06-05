@@ -204,3 +204,5 @@ def dijkstra(initial, goal):
             vis = cv2.rotate(vis, cv2.ROTATE_90_CLOCKWISE)
             open_list.pop(tuple(current_node), None)
             current_node = list(min(open_list, key=open_list.get))
+            
+           

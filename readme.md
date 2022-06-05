@@ -1,20 +1,69 @@
-# ENPM661 Project 2 - Path Planning with Dijkstra Algorithm
+![alt text](/output/output.gif)
 
-## Personnel
-### Ninad Harishchandrakar
+# Path Planning with the Dijkstra Algorithm
+
+## Description
+
+The [Dijkstra Algotihm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) is used widely to traverse a graph between nodes and finding the optimal path. It is also extensively used for Robot Path Planning. For a given Obstacle Space, this program applies the Dijkstra Algorithm for Path Planning in order to find the optimal path for the robot to travel from a given initial potiion to a given goal position taking into consideration all the obstacles as well as a clearance space around them.
+
+## Approach
+
+The algorithm used is shown in the following flowchart.
+
+![alt text](/output/flo.png)
+
+## Output
+
+The 2D Obstacle Space where the Obstacled are shown in red and a clearance space around the obstacles is shown in yellow.
+
+![alt text](/output/output1.png)
+
+The path from the initial point (6,6) to the goal point (130,100) is found using the Dijkstra Algorithm. This path is shown in blue.
+
+![alt text](/output/output2.png)
 
 
-## Running the program
+The Video Output can be found [here](https://drive.google.com/file/d/1oppuylvXl61TDRY4Bmon5KPglXFWiiMg/view?usp=sharing).
 
-### Generate the Optimal Path in the obstacle course to travel from one point to another found with the Dijkstra Algorithm and visualize it:
-#### The Numpy and OpenCV Python libraries are used for this project.
 
-Open the Project folder /proj2_ninad_harish in a Terminal.
+## Getting Started
+
+### Dependencies
+
+<p align="left"> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&ensp; </a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/File:NumPy_logo_2020.svg" alt="numpy" width="40" height="40"/>&ensp; </a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/5009934?v=4&s=400" alt="opencv" width="40" height="40"/>&ensp; </a>
+
+* [Python 3](https://www.python.org/)
+* [NumPy](https://numpy.org/)
+* [OpenCV](https://opencv.org/)
+
+
+### Executing program
+
+* Clone the repository into any folder of your choice.
 ```
-cd /proj2_ninad_harish
+git clone https://github.com/ninadharish/Path-Planning-Dijkstra-Algorithm.git
 ```
-Run the following to start the simulation:
+
+* Open the repository and navigate to the `src` folder.
 ```
-python project2_dijkstra.py
+cd Path-Planning-Dijkstra-Algorithm/src
 ```
-Follow the instructions on screen to input the coordinates of the start and goal points. If they are valid (not inside the clearance space or obstacle), the simulation starts. Wait until the optimal path is found. This will be depcted with blue color.
+
+* Run the program.
+```
+python main.py
+```
+
+* Follow the on screen instructions to input the initial and goal points in order to plan the path of the robot using the Dijkstra algorithm.
+
+
+## Authors
+
+👤 **Ninad Harishchandrakar**
+
+* [GitHub](https://github.com/ninadharish)
+* [Email](ninad.harish@gmail.com)
+* [LinkedIn](https://linkedin.com/in/ninadharish)

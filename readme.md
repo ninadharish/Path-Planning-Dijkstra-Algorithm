@@ -18,7 +18,7 @@ The 2D Obstacle Space where the Obstacled are shown in red and a clearance space
 
 ![alt text](/output/output1.png)
 
-The path from the initial point (6,6) to the goal point (130,100) is found using the Dijkstra Algorithm. This path is shown in blue.
+The path from the initial point (6,6) to the goal point (130,100) is found using the Dijkstra Algorithm. The nodes explored are depicted in green. The optimal path is shown in blue.
 
 ![alt text](/output/output2.png)
 

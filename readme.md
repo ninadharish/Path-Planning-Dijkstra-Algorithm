@@ -4,7 +4,9 @@
 
 ## Description
 
-The [Dijkstra Algotihm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) is used widely to traverse a graph between nodes and finding the optimal path. It is also extensively used for Robot Path Planning. For a given Obstacle Space, this program applies the Dijkstra Algorithm for Path Planning in order to find the optimal path for the robot to travel from a given initial potiion to a given goal position taking into consideration all the obstacles as well as a clearance space around them.
+The [Dijkstra Algotihm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) is used widely to traverse a graph between nodes and finding the optimal path. It is also extensively used for Robot Path Planning. For a given Obstacle Space, this program applies the Dijkstra Algorithm for Path Planning in order to find the optimal path for the robot to travel from a given initial potiion to a given goal position taking into consideration all the obstacles as well as a clearance space around them. This project is a part of the Spring 2022 course ENPM661: Introductory Robot Programming taught by Dr. Reza Monferadi at the University of Maryland.
+
+
 
 ## Approach
 
